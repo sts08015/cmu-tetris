@@ -12,15 +12,15 @@ I think there are some issues remaining with **pause** and step option, but thos
 
 ## Keys
 
-left : move left
+left arrow  : move left
 
-right : move right
+right arrow : move right
 
-down : move down
+down arrow  : move down
 
-up : rotate counter-clockwise
+up arrow    : rotate counter-clockwise
 
-space : **Hard Drop**
+space       : **Hard Drop (immediate drop)**
 
 
 ## Game Play
