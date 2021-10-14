@@ -22,6 +22,8 @@ up arrow    : rotate counter-clockwise
 
 space       : **Hard Drop (immediate drop)**
 
+p           : pause / resume
+
 
 ## Game Play
 ![da](https://user-images.githubusercontent.com/31784008/136686435-2653fd12-234b-4ac2-89ff-9c2c2fd36466.gif)
